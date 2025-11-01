@@ -1,2 +1,2 @@
-# web-recetas
-pagina web de recetas
+# Web-recetas
+pagina web inclusiva de recetas
